@@ -1,0 +1,12 @@
+,date,time,user,message,message_tolist
+0,02/07/2015,14:20,Leonardo,stasera pizza,"['stasera', 'pizza']"
+1,02/07/2015,14:26,Michelangelo,siiii pizza pizza pizza pizza,"['siiii', 'pizza', 'pizza', 'pizza', 'pizza']"
+2,02/07/2015,14:26,Donatello,qualcuno gestisca michelangelo,"['qualcuno', 'gestisca', 'michelangelo']"
+3,02/07/2015,14:32,Michelangelo,pizza pizza pizza,"['pizza', 'pizza', 'pizza']"
+4,02/07/2015,14:35,Leonardo,ok messaggio ricevuto  ordiniamo 4 margherite,"['ok', 'messaggio', 'ricevuto', 'ordiniamo', '4', 'margherite']"
+5,02/07/2015,14:36,Raffaello,mamma mia leo un podi vita,"['mamma', 'mia', 'leo', 'un', 'podi', 'vita']"
+6,02/07/2015,14:39,Donatello,allora una marinara una margherita una capricciosa e un calzone,"['allora', 'una', 'marinara', 'una', 'margherita', 'una', 'capricciosa', 'e', 'un', 'calzone']"
+7,02/07/2015,14:39,Michelangelo,ho mica detto pizza,"['ho', 'mica', 'detto', 'pizza']"
+8,02/07/2015,14:39,Maestro Splinter,e io per me una quattro formaggi,"['e', 'io', 'per', 'me', 'una', 'quattro', 'formaggi']"
+9,02/07/2015,14:40,Leonardo,scusi maestro allora vada per marinara margherita capricciosa calzone e quattro formaggi,"['scusi', 'maestro', 'allora', 'vada', 'per', 'marinara', 'margherita', 'capricciosa', 'calzone', 'e', 'quattro', 'formaggi']"
+10,02/07/2015,14:41,Leonardo,ci vediamo al tartafurgone,"['ci', 'vediamo', 'al', 'tartafurgone']"
