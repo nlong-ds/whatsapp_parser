@@ -1,0 +1,14 @@
+# pycharm
+*.idea\*
+
+# jupyter notebooks
+*.ipynb
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Spyder project settings
+.spyderproject
+.spyproject
