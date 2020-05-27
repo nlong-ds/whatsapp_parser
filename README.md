@@ -27,7 +27,7 @@ The script will:
 - Save both dataframe and wordcloud (in .csv and .png) format into an /output folder.  
 
 A sample output:  
-<img src="/output/wordcloud" width="432">
+<img src="/output/wordcloud.jpg" width="432">
 
 
 ---
