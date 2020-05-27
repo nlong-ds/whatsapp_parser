@@ -15,14 +15,14 @@ A generic Whatsapp file template is the following, describing for fictional purp
     02/07/2015, 14:39 - Donatello: allora una marinara, una margherita, una capricciosa e un calzone?
     02/07/2015, 14:39 - Michelangelo: ho mica detto pizza?
 
-![ninja](/imgs/ninjas.jpg)
-
-
 ## How to use:
 - Extract a conversation file from whatsapp and place it into the script folder. (Make sure **not** to extract media files)  
 
+![pizzanight](/imgs/ninjas.jpg)
+
+
 The script will:
-- Check for all .txts available in the folder. If multiple files are found, the user is asked to specify one.  
+- Check for all .txts available in its folder. If multiple files are found, the user is asked to specify one.  
 - Parse data into a dataframe structure, isolating Date, Time, User, Message components (plus an extra column for tokenized words).  
 - Ask the user if they want a User-specific wordcloud.  
 - Save both dataframe and wordcloud (in .csv and .png) format into an /output folder.  
@@ -36,7 +36,8 @@ A sample output:
 **Important Limitations**
 - The script does not handle well multi-line messages. (A nice solution is shared in this [medium post](https://towardsdatascience.com/build-your-own-whatsapp-chat-analyzer-9590acca9014) )
 - Stopwords included are for Italian and English languages. They can be easily extended by editing the class. 
-- The wordcloud is not sophisticated in the way the word choices does not account for singular/plurals, etc. It cuts words shorter than 5 characters.
+- The script was tested from an android Whatsapp extract
+- The wordcloud is not sophisticated in the way it cuts words shorter than 5 characters and does not merge together singulars/plurals.
 
 ### Needed Libraries
 - os
