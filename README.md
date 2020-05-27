@@ -18,7 +18,7 @@ A generic Whatsapp file template is the following, describing for fictional purp
 ## How to use:
 - Extract a conversation file from whatsapp and place it into the script folder. (Make sure **not** to extract media files)  
 
-<img src="/imgs/ninjas.jpg" width="540">
+<img src="/imgs/ninjas.jpg" width="400">
 
 The script will:
 - Check for all .txts available in its folder. If multiple files are found, the user is asked to specify one.  
@@ -27,7 +27,7 @@ The script will:
 - Save both dataframe and wordcloud (in .csv and .png) format into an /output folder.  
 
 A sample output:  
-<img src="/output/wordcloud.jpg" width="300">
+<img src="/output/wordcloud.jpg" width="432">
 
 
 ---
